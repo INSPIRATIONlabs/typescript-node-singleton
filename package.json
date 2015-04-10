@@ -1,0 +1,36 @@
+{
+  "name": "typescript-node-singleton",
+  "dependencies": {
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "typescript",
+    "singleton",
+    "nodejs"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": ">= 0.0.1"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "description": "A example on how to build a singleton node.js module with typescript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/INSPIRATIONlabs/typescript-node-singleton.git"
+  },
+  "author": "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INSPIRATIONlabs/typescript-node-singleton/issues"
+  },
+  "homepage": "https://github.com/INSPIRATIONlabs/typescript-node-singleton"
+}
